@@ -20,13 +20,15 @@
 
 ##### 基于react
 
-- 从redux到redux-actions到redux-saga
+- redux || redux-actions || redux-saga || Rxjs
 
 - redux-thunk
 
 - 多模块按需注册reducer
 
 - 多模块store结构设计
+
+##### 基于angular
 
 
 
