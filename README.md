@@ -1,15 +1,15 @@
 # Introduction
 
-##### 这是什么
+#### 这是什么
 
 团队前端技术栈的总结
 目前根据现有react技术框架， 结合create-react-app创建了一个新的[项目结构](https://github.com/fridego/react-project-constructure)
 
-##### 基于es6
+#### 基于es6
 
 - 装饰器
 
-##### 基于webpack
+#### 基于webpack
 
 - 热更新
 
@@ -19,7 +19,7 @@
 
 - 全局注册变量
 
-##### 基于react
+#### 基于react
 
 - redux || redux-actions || redux-saga || Rxjs
 
@@ -29,7 +29,7 @@
 
 - 多模块store结构设计
 
-##### 数据管理替代方案
+#### 数据管理替代方案
 
 - graphQL && apollo(调研阶段)
 
